@@ -3,7 +3,7 @@
   
   <br><br>
 
-  # BIENVENIDO 
+  # -BIENVENIDO- 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Desarrollador+Backend;Entusiasta+en+hacking" alt="Typing SVG" />
   </a>
@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=FF00FF&color=000000&labelColor=000000" alt="MySQL" />
 </p>
 
-### TRANSMISIONES RECIENTES
-* 🎓 Estatus del sistema: **Cursando en la UTN**
-* 💻 Actualmente trabajando en: **Trabajo final para la UTN**
-* 🕵️‍♂️ Explorando: **Ciberseguridad y hacking**
-* ⚡ Contacto: **rayanolisandro@gmail.com**
+### RECIENTES
+* **Cursando en la UTN**
+* Actualmente trabajando en: **Trabajo final para la UTN**
+* Explorando: **Ciberseguridad y hacking**
+* Contacto: **rayanolisandro@gmail.com**
