@@ -11,7 +11,7 @@
 
 <br>
 
-### 🛠️ STACK TECNOLÓGICO
+### STACK TECNOLÓGICO
 
 #### Desarrollo Frontend
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 ### RECIENTES
-* **Cursando en la UTN**
+* **Cursando en UTN**
 * Actualmente trabajando en: **Trabajo final para la UTN**
 * Explorando: **Ciberseguridad y hacking**
 * Contacto: **rayanolisandro@gmail.com**
